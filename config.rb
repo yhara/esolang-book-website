@@ -1,5 +1,12 @@
 require 'slim'
 
+set :markdown_engine, :redcarpet
+set :markdown,
+  no_intra_emphasis: true,
+  tables: true,
+  fenced_code_blocks: true,
+  autolink: true
+
 ###
 # Compass
 ###

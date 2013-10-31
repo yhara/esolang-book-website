@@ -18,3 +18,4 @@ end
 # ---
 
 gem 'slim'
+gem 'redcarpet'
