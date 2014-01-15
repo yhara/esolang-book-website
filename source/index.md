@@ -22,4 +22,4 @@ PDF版とオンデマンド印刷版があり、2014/1/6までに予約すると
 
 <hr/>
 
-Powered By <img src='http://s3.amazonaws.com/twitter_production/profile_images/43067632/477_normal.JPG' width=20 height=20> [Route477.net](http://route477.net)
+Powered By <img src='images/477_normal.JPG' width=20 height=20> [Route477.net](http://route477.net)
