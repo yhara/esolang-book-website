@@ -17,8 +17,7 @@ PDF版とオンデマンド印刷版があり、2014/1/6までに予約すると
 
 (こちらの表紙のものは絶版です。)
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yharaharay-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4839927847" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
+<a href="http://www.amazon.co.jp/gp/product/4839927847/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=4839927847&linkCode=as2&tag=yharaharay-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4839927847&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=yharaharay-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=yharaharay-22&l=as2&o=9&a=4839927847" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <hr/>
 
