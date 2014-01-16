@@ -13,18 +13,18 @@ html
     == javascript_include_tag  "all"
 
   body class="#{page_classes}"
-    h1
-      == link_to "Rubyで作る奇妙なプログラミング言語", "/"
+    #container
+      h1
+        == link_to "Rubyで作る奇妙なプログラミング言語", "/"
 
-    #ul.menu
-      li 
-        ' 購入する
-        == link_to "(マイナビBooks)", "https://book.mynavi.jp/ec/products/detail/id=24268"
-        '
-        == link_to "(達人出版会)", "http://tatsu-zine.com/books/esoteric-language-programing-in-ruby"
-      li == link_to "正誤表", "eratta.html"
-      li == link_to "練習問題の解答例", "practices.html"
-      li == link_to "ソースコード", "sources.html"
+      #ul.menu
+        li 
+          ' 購入する
+          == link_to "(マイナビBooks)", "https://book.mynavi.jp/ec/products/detail/id=24268"
+          '
+          == link_to "(達人出版会)", "http://tatsu-zine.com/books/esoteric-language-programing-in-ruby"
+        li == link_to "正誤表", "eratta.html"
+        li == link_to "練習問題の解答例", "practices.html"
+        li == link_to "ソースコード", "sources.html"
 
-    == yield
-
+      == yield
