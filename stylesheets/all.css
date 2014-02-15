@@ -1,34 +1,21 @@
-/* line 1, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+/* line 3, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
 body {
   margin-left: 10%;
   margin-right: 10%;
   background: #91bc2c; }
 
-/* line 6, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
-#container {
-  background: white;
-  padding: 1em; }
-
-/* line 10, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
-h1 {
-  border-bottom: 5px solid #3e5610; }
-  /* line 11, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
-  h1 a {
-    color: #3e5610;
-    text-decoration: none; }
-
-/* line 16, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+/* line 11, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
 pre {
   background: #333333;
   color: white;
   border: 1px solid black;
   padding: 0.1em 0.5em; }
-  /* line 22, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+  /* line 17, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
   pre code {
     background: inherit;
     border: none; }
 
-/* line 26, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+/* line 21, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
 code {
   font-family: Monaco, monospace;
   font-size: 90%;
@@ -36,13 +23,39 @@ code {
   border: 1px solid #888888;
   padding: 0.1em 0.2em; }
 
-/* line 33, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+/* line 28, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
 table {
   border-collapse: collapse; }
-  /* line 36, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+  /* line 31, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
   table th, table td {
     border: 1px solid black; }
 
-/* line 39, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+/* line 34, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
 strong {
   color: #880000; }
+
+/* line 39, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+#container {
+  background: white;
+  padding: 1em; }
+  /* line 44, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+  #container h1 a {
+    color: #3e5610;
+    text-decoration: none; }
+  /* line 48, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+  #container #menu {
+    padding: 0; }
+    /* line 50, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+    #container #menu li {
+      width: 24%;
+      display: inline-block;
+      border-width: 2px 0 2px 2px;
+      border-style: solid;
+      border-color: #3e5610;
+      text-align: center; }
+      /* line 58, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+      #container #menu li a {
+        text-decoration: none; }
+    /* line 61, /Users/yhara/Dropbox/proj/_work/esol2.0/esolang-book-website/source/stylesheets/all.css.sass */
+    #container #menu li:last-child {
+      border-right: 1px solid #3e5610; }
