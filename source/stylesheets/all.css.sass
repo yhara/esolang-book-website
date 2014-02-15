@@ -1,17 +1,12 @@
+$dark_green: #3e5610
+
 body
   margin-left: 10%
   margin-right: 10%
   background: #91bc2c
 
-#container
-  background: white
-  padding: 1em
-
-h1
-  a
-    color: #3e5610
-    text-decoration: none
-  border-bottom: 5px solid #3e5610
+a
+  //color: $dark_green
 
 pre
   background: #333
@@ -38,3 +33,30 @@ table
 
 strong
   color: #800
+
+// パーツ
+
+#container
+  background: white
+  padding: 1em
+
+  h1
+    a
+      color: $dark_green
+      text-decoration: none
+
+  #menu
+    padding: 0
+    li
+      width: 24%
+      display: inline-block
+      border-width: 2px 0 2px 2px
+      border-style: solid
+      border-color: $dark_green
+      text-align: center
+
+      a
+        text-decoration: none
+
+    li:last-child
+      border-right: 1px solid $dark_green

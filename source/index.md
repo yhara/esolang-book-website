@@ -3,16 +3,24 @@
 
 ## 第二版
 
-[![image](https://book.mynavi.jp/files/topics/24268_ext_06_0.jpg)](https://book.mynavi.jp/ec/products/detail/id=24268)
+第二版が出ています。初版との違いは、誤植が修正されていることと、Rubyのインストール方法の項をアップデートした点です(つまり内容的には同じです)。
 
-絶版になっていた本書ですが、第二版として復刻されることになりました。
 
-* [マイナビBooks](https://book.mynavi.jp/ec/products/detail/id=24268) (紙版・電子版)
-* [達人出版会](http://tatsu-zine.com/books/esoteric-language-programing-in-ruby) (電子版)
+<div style="float: left; margin-left: 2em; margin-right: 2em">
+<a href='https://book.mynavi.jp/ec/products/detail/id=24268'>
+<img src='images/24268_ext_06_0.jpg'>
+</a>
+</div>
 
-初版との違いは、誤植が修正されているのと、Rubyのインストール方法の項をアップデートした点です(つまり内容的には初版と同じです)。
+### 購入する
 
-ちなみに同時発売は[アセンブラ短歌の本](https://book.mynavi.jp/ec/products/detail/id=24267)です :-) こちらもぜひご検討ください。
+* [マイナビBooks](https://book.mynavi.jp/ec/products/detail/id=24268) (紙版・PDF)
+* [達人出版会](http://tatsu-zine.com/books/esoteric-language-programing-in-ruby) (PDF)
+* [Amazon Kindle](http://www.amazon.co.jp/gp/product/B00ICKLC2A/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00ICKLC2A&linkCode=as2&tag=yharaharay-22)
+* [Google Play](https://play.google.com/store/books/details/%E5%8E%9F_%E6%82%A0_Ruby%E3%81%A7%E4%BD%9C%E3%82%8B%E5%A5%87%E5%A6%99%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E?id=wamYAgAAQBAJ)
+* [楽天kobo](http://rakuten.kobobooks.com/ebook/Ruby%E3%81%A7%E4%BD%9C%E3%82%8B%E5%A5%87%E5%A6%99%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E/book-qfjezBXdCkKrVwt_sHdPKg/page1.html?s=q_ncmTtNKEiUvOp8wvAQ4g&r=1)
+
+<br style="clear: both;">
 
 ## 初版
 
